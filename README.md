@@ -35,3 +35,6 @@ pip install -r requirements.txt
 # Add your resume
 mkdir data
 put resume.pdf in the data folder
+
+# run application
+python cover_letter.py
