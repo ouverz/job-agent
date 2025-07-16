@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-openai
+langchain-huggingface
+langchain-anthropic
+langchain-community
+langchain-core
+sentence-transformers
+pinecone-client==2.2.1
+chromadb
+openai
+pypdf
